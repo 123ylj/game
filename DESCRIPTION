@@ -1,0 +1,15 @@
+Package: zeal
+Type: Package
+Title: a game
+Version: 0.1.0
+Author: person(given="Lijuan",family="Yang",email="1670622531@qq.com",role=c("aut","cre"))
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: The description of a package is usually long,
+    spanning multiple lines. The second and subsequent lines
+    should be indented, usually with four spaces.
+License: Artistic-2.0
+Encoding: UTF-8
+LazyData: true
+Imports:
+  tcltk
+RoxygenNote:7.1.2
